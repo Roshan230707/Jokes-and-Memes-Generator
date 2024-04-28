@@ -1,7 +1,9 @@
 /* Body styles */
 body {
-    background-color: #cfeaf8; /* Soft blue */
-    color: #333; /* Dark gray text */
+    background-color: #cfeaf8;
+    /* Soft blue */
+    color: #333;
+    /* Dark gray text */
     font-family: 'Arial', sans-serif;
 }
 
@@ -46,5 +48,3 @@ button:hover {
     cursor: pointer;
     background-color: rgba(102, 19, 19, 0.1);
 }
-
-
